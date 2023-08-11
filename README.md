@@ -15,7 +15,7 @@ Flash Chat is a real-time messaging app built with Flutter that allows users to 
 
 To get started with the Flash Chat app, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/flash-chat-flutter.git`
+1. Clone this repository
 2. Navigate to the project directory: `cd flash-chat-flutter`
 3. Install the necessary dependencies: `flutter pub get`
 4. Create a new Firebase project and configure the app by following the instructions [here](https://firebase.flutter.dev/docs/overview).
